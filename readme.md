@@ -6,7 +6,7 @@ This piece of code is written to demonstrate the usage of COWIN OPEN API. Please
 Update your mobile number, agent secret, telegram bot's details in `secrets.py`. Please refer telegram bot configuration note for more details about how to configure and send messages to telegram bot.
 
 ## How to get district ID and agent secret
-Refer the list of district IDs from `DISTRICT.txt` or execute `getDistrictIDs.py` to retrieve the latest list. You will get client secret from your browser. In order to get this, open your web browser (Chrome, Edge, Firefox), open developer options, login to COWIN site and login normally. You will get the details under Developer Options window's **Network** >> **Headers** >>**Request**. See below screenshot for reference.
+Refer the list of district IDs from `DISTRICT.txt` or execute `getDistrictIDs.py` to retrieve the latest list. You will get client secret from your browser. In order to get this, open your web browser (Chrome, Edge, Firefox), open developer options (`F12` in most cases), login to COWIN site normally. You will get the details under Developer Options window's **Network** >> **Headers** >>**Request** section. See below screenshot for reference.
 
 ![screenshot](/images/agent_secret.png)
 
