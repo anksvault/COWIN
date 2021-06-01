@@ -1,0 +1,82 @@
+{
+  "sessions": [
+    {
+      "center_id": 692131,
+      "name": "NRCH Site 2",
+      "address": "Northern Railway Central Hospital, Basant Lane, New Delhi",
+      "state_name": "Delhi",
+      "district_name": "New Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110055,
+      "from": "09:00:00",
+      "to": "16:00:00",
+      "lat": 28,
+      "long": 77,
+      "fee_type": "Free",
+      "session_id": "25b21fce-f3bc-4a40-a8e2-ca00d191d73d",
+      "date": "06-05-2021",
+      "available_capacity": 47,
+      "fee": "0",
+      "min_age_limit": 45,
+      "vaccine": "COVISHIELD",
+      "slots": [
+        "09:00AM-11:00AM",
+        "11:00AM-01:00PM",
+        "01:00PM-03:00PM",
+        "03:00PM-04:00PM"
+      ]
+    },
+    {
+      "center_id": 563020,
+      "name": "Delhi Cantt Gen Hosp. Site 1",
+      "address": "Sadar Bajar Road Opp Police Station Kabul Line Delhi Cantonment 10",
+      "state_name": "Delhi",
+      "district_name": "New Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110010,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "lat": 28,
+      "long": 77,
+      "fee_type": "Free",
+      "session_id": "8be3f863-c188-4a71-9234-2b8907cf4bf8",
+      "date": "06-05-2021",
+      "available_capacity": 1,
+      "fee": "0",
+      "min_age_limit": 45,
+      "vaccine": "COVISHIELD",
+      "slots": [
+        "09:00AM-11:00AM",
+        "11:00AM-01:00PM",
+        "01:00PM-03:00PM",
+        "03:00PM-05:00PM"
+      ]
+    },
+    {
+      "center_id": 576301,
+      "name": "Delhi Cantt Gen Hosp. Site 2",
+      "address": "Sadar Bajar Road Opp Police Station Kabul Line Delhi Cantonment 10",
+      "state_name": "Delhi",
+      "district_name": "New Delhi",
+      "block_name": "Not Applicable",
+      "pincode": 110010,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "lat": 28,
+      "long": 77,
+      "fee_type": "Free",
+      "session_id": "c367c04b-de8f-4103-830c-1c6d1593e7a1",
+      "date": "06-05-2021",
+      "available_capacity": 29,
+      "fee": "0",
+      "min_age_limit": 45,
+      "vaccine": "COVISHIELD",
+      "slots": [
+        "09:00AM-11:00AM",
+        "11:00AM-01:00PM",
+        "01:00PM-03:00PM",
+        "03:00PM-05:00PM"
+      ]
+    }
+  ]
+}

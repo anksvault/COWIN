@@ -1,0 +1,19 @@
+{
+  "beneficiaries": [
+    {
+      "beneficiary_reference_id": "82212845577***",
+      "name": "Subhash Chandra Ghosh",
+      "birth_year": "196*",
+      "gender": "Male",
+      "mobile_number": "4542",
+      "photo_id_type": "PAN Card",
+      "photo_id_number": "AHYPG5*****",
+      "comorbidity_ind": "N",
+      "vaccination_status": "Not Vaccinated",
+      "vaccine": "",
+      "dose1_date": "",
+      "dose2_date": "",
+      "appointments": []
+    }
+  ]
+}

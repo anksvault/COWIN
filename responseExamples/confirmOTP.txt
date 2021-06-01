@@ -1,0 +1,4 @@
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX25hbWUiOiI3NzMwZjFkMC1mZWIwLTQwZDEtYjFiMC0wNGViNTNmMGI4NzEiLCJ1c2VyX2lkIjo********************************************************3VDA0OjQ2OjI4LjE0NloiLCJpYXQiOjE2MjAzNjI3ODgsImV4cCI6MTYyMDM2MzY4OH0.KB9uUQFwhyr8DYWhzIyXVHoiTa9Wbexlqj2koaHuGxc",
+  "isNewAccount": "N"
+}
