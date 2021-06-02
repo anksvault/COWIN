@@ -16,4 +16,7 @@ Install all dependent packages using `pip install -r requirements.txt`
 ## Execution
 `python3 COWIN.py`
 
+If you want to get the information related to available schedules only, execute the following instead. This will run without further intervention for inputs like `OTP`.
+`python3 getVaccinationSchedule.py`
+
 Enter `OTP` when requested and let it run. If a suitable session is found, script will send a message to your Telegram Bot.
