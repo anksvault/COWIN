@@ -57,7 +57,8 @@ while True:
         district = center['district_name']
         block = center['block_name']
         pincode = center['pincode']
-        fee = center['fee_type']
+        fee_type = center['fee_type']
+        fee =  center['fee']
         session_id = center['session_id']
         date = center['date']
         availability = center['available_capacity']
@@ -69,7 +70,7 @@ while True:
 
         # Check if Age Group, Vaccine Type match and there are available slots for vaccination.
         if min_age == 18 and availability > 0:# and vaccine == "COVAXIN" and availability > 0:
-            print('FOUND SUITABLE SLOT\nName: {} | Address: {}\nDistrict: {} | Block: {} | Pincode: {}\nFee: {} | Session_ID: {}\nDate: {} | Available Slots: {}\nAge_Limit: {} | Vaccine_Type: {}\nSlots: {}\nDose1_Cap: {} | Dose2_Cap: {}\n'.format(name,address,district,block,pincode,fee,session_id,date,availability,min_age,vaccine,slots,dose1cap,dose2cap))
+            print('FOUND SUITABLE SLOT\nName: {} | Address: {}\nDistrict: {} | Block: {} | Pincode: {}\nFee_Type: {} | Fee: {} | Session_ID: {}\nDate: {} | Available Slots: {}\nAge_Limit: {} | Vaccine_Type: {}\nSlots: {}\nDose1_Cap: {} | Dose2_Cap: {}\n'.format(name,address,district,block,pincode,fee_type,fee,session_id,date,availability,min_age,vaccine,slots,dose1cap,dose2cap))
 
             message = '*Name*: ' + name + ' | *Address*: ' + address+ ' | *District*: ' + district + ' | *Block*: ' + block + ' | *Pincode*: ' + str(pincode) + ' | *Fee*: ' + str(fee) + ' | *Date*: ' + str(date) + ' | *Age-Limit*: ' + str(min_age) + ' | *Vaccine-Type*: ' + vaccine + ' | *https://selfregistration.cowin.gov.in* | *Available Slots*: ' + str(availability) + ' | *Dose1-Slots*: ' + str(dose1cap) + ' | *Dose2-Slots*: ' + str(dose2cap)
 
